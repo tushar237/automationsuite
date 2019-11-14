@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNgMavenExampleSuite" parallel="false">
+  <test name="TestNgMavenTest">
+    <classes>
+      <class name="com.fil.automation.test.automationtesting.TestNgMavenExample1"/>
+      <class name="com.fil.automation.test.automationtesting.TestNgMavenSecondClass1"/>
+      <class name="com.fil.automation.test.automationtesting.TestNgMavenThirdClass1"/>
+    </classes>
+  </test>
+</suite>
